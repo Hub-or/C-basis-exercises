@@ -1,2 +1,2 @@
 # C-basis-exercises
-Where I started programming.
+Those file shows how and where I started programming.
